@@ -28,7 +28,7 @@ yarn-error.log*
 ## Please do not remove lines 5 and 6 - thanks! 🙂 ##
 #####################################################
 *.sketch
-# *.fig
+*.fig
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
