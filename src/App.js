@@ -10,8 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <figure>
-
-        <video src='https://thecodinglove.com/content/043/mIZV5gp.mp4' autoplay loop />
+        <video src='https://thecodinglove.com/content/043/mIZV5gp.mp4' autoplay loop controls />
         <figcaption>
           When the intern leaves his first code review
         </figcaption>
