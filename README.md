@@ -1,11 +1,6 @@
 # Frontend Mentor - Space tourism website
 
-![Design preview for the Space tourism website coding challenge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAAx4bbG9cnUvqlGAryIDm-8m17nmAbVojA&usqp=CAU)
-
-<h2 center>
-I'm a withthwe  devewoper baby! thath'sh why i thaww sho weirdwy. My firshth reacth app! yah for baby
-</h2>
-<!-- (./preview.jpg) -->
+![Design preview for the Space tourism website coding challenge](./preview.jpg)
 
 ## Welcome! 👋
 
